@@ -62,6 +62,10 @@ h1 {
   padding-left: 2rem;
 }
 
+.clearfix{
+  color: white;
+}
+
 
 .imagebox {
     background: black;
@@ -103,3 +107,12 @@ h1 {
   position: relative;
   
 }
+/* vehiculos */
+
+video .vehiculos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+  
